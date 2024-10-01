@@ -50,11 +50,11 @@ logo4 = """
 \x1b[1;91m
 \x1b[1;92m
 \x1b[1;96m
-\x1b[1;92m         {|}          {|}      {|}{|}        {|}{|}{|}{|}{|}    {|}        {|}   {|}{|}         {|}
-\x1b[1;97m           {|}       {|}      {|}  {|}       {|}         {|}    {|}        {|}   {|}   {|}      {|}
-\x1b[1;93m             {|}    {|}       {|}{|}{|}      {|}{|}{|}{|}{|}    {|}        {|}   {|}      {|}   {|}
-\x1b[1;96m               {|} {|}       {|}    {|}      {|}          {|}   {|}        {|}   {|}        {|} {|}
-\x1b[1;94m                 {|}        {|}      {|}     {|}          {|}    {|}{|}{|}{|}    {|}           {|}
+\x1b[1;92m             {|}   {|}   {|}{|}    {|}{|}{|} {|}   {|}  {|}{|}    {|}
+\x1b[1;97m             {|}  {|}   {|} {|}    {|}    {|} {|}   {|}  {|} {|}   {|}
+\x1b[1;93m              {|} {|}  {|}{|}{|}  {|}{|}{|} {|}    {|}  {|} {|}  {|} 
+\x1b[1;96m              {|}{|}   {|}   {|}  {|}    {|}  {|}   {|}  {|}  {|} {|} 
+\x1b[1;94m                {|}    {|}    {|}  {|}    {|}  {|}{|}{|} {|}   {|}{|} 
 \x1b[1;93m
 \x1b[1;92m         Varun Dhawal~
 \x1b[1;91m-----------------------------------------------
@@ -63,18 +63,18 @@ logo4 = """
 \x1b[1;97m> Facebok: Varun Dhawal
 \x1b[1;97m> Version: Auto create fb account 
 \x1b[0;97m-----------------------------------------------"""
-boy = ['Akshay Pandey', 'Sumit Kumar', 'Aayush Pandey', 'Dilip Kumar', 'Alex Kumar', 'Dev Panday', 'Saurabh Chaudhary', 'Abhi Chaudhary', 'Nilesh Kumar', 'Nilesh pandey', 'Safdar Malik', 'Intzar Khan', 'Saleem Malik', 'Abdullah Malik', 'Naseer Jutt', 'Muzammil Malik', 'Fiaz Ahmad', 'Asghar Ali', 'Shabeer Ahmad', 'Irfan Ali', 'Ahmad Gujjar']
+boy = ['Akshay Pandey', 'Sumit Kumar', 'Aayush Pandey', 'Dilip Kumar', 'Alex Kumar', 'Dev Panday', 'Saurabh Chaudhary', 'Abhi Chaudhary', 'Nilesh Kumar', 'Nitish Sharma', 'Safdar Malik', 'Intzar Khan', 'Saleem Malik', 'Abdullah Malik', 'Naseer Jutt', 'Muzammil Malik', 'Fiaz Ahmad', 'Asghar Ali', 'Shabeer Ahmad', 'Irfan Ali', 'Ahmad Gujjar']
 girl = ['Seema Kumari', 'Ayesha Khan', 'Nabeela Malik', 'Kinza Fatima', 'Arooj Khan', 'Muskan Khan', 'Ayesha Malik', 'Safina Malik', 'Nida Ali', 'Rimsha Ali']
 ok = []
 cp = []
 def menu():
     os.system('clear')
     print (logo4)
-    print ('Auto create tool')
+    print ('    Auto create tool')
     print (47*'-')
     print ('[1]auto creat')
     print ('[2] Contact tool owner')
-    print ('[3] join whatsapp channel')
+    print ('[3] Join whatsapp channel')
     print (47*'-')
     sel = input('Select: ')
     if sel in['1', '01']:
