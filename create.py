@@ -63,7 +63,7 @@ logo4 = """
 \x1b[1;97m> Facebok: Varun Dhawal
 \x1b[1;97m> Version: Auto create fb account 
 \x1b[0;97m-----------------------------------------------"""
-boy = ['Akshay Pandey', 'Sumit Kumar', 'Aayush Pandey', 'Dilip Kumar', 'Alex Kumar', 'Dev Panday', 'Saurabh Chaudhary', 'Abhi Chaudhary', 'Nilesh Kumar, 'Nilesh pandey', 'Safdar Malik', 'Intzar Khan', 'Saleem Malik', 'Abdullah Malik', 'Naseer Jutt', 'Muzammil Malik', 'Fiaz Ahmad', 'Asghar Ali', 'Shabeer Ahmad', 'Irfan Ali', 'Ahmad Gujjar']
+boy = ['Akshay Pandey', 'Sumit Kumar', 'Aayush Pandey', 'Dilip Kumar', 'Alex Kumar', 'Dev Panday', 'Saurabh Chaudhary', 'Abhi Chaudhary', 'Nilesh Kumar', 'Nilesh pandey', 'Safdar Malik', 'Intzar Khan', 'Saleem Malik', 'Abdullah Malik', 'Naseer Jutt', 'Muzammil Malik', 'Fiaz Ahmad', 'Asghar Ali', 'Shabeer Ahmad', 'Irfan Ali', 'Ahmad Gujjar']
 girl = ['Seema Kumari', 'Ayesha Khan', 'Nabeela Malik', 'Kinza Fatima', 'Arooj Khan', 'Muskan Khan', 'Ayesha Malik', 'Safina Malik', 'Nida Ali', 'Rimsha Ali']
 ok = []
 cp = []
